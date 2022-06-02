@@ -1,0 +1,1 @@
+In this repository, games implemented in C++ and Python are presented, including the use of artificial intelligence algorithms for automatic resolution with adaptive behaviors during the execution of some games.
